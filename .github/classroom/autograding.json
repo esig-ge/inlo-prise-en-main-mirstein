@@ -3,7 +3,7 @@
     {
       "name": "Test basique",
       "setup": "",
-      "run": "python",
+      "run": "python hello.py",
       "input": "",
       "output": "Hi, daddy!",
       "comparison": "included",
